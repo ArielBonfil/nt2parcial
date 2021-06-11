@@ -5,10 +5,7 @@
       <br />
       <Navbar />
       <router-view></router-view>
-      <!-- <Binding />
-      <Estructura />
-      <Atributos />
-      <Contadores /> -->
+
     </div>
   </div>
 </template>
